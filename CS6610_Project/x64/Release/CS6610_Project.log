@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  CS6610Project.cpp
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutLeaveMainLoop
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardFunc
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutIdleFunc
+CS6610Project.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+C:\Users\Rishabh\Desktop\ICG Assignments\Assignment\CS6610_Project\x64\Release\CS6610_Project.exe : fatal error LNK1120: 12 unresolved externals
